@@ -1,3 +1,5 @@
+arch:
+        - ppc64le
 language: cpp
 compiler: clang
 sudo: require
